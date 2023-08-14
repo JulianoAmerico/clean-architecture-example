@@ -1,0 +1,3 @@
+server.port: 8090
+
+zipCode.url: https://viacep.com.br/
